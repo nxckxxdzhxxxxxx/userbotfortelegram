@@ -1,0 +1,26 @@
+# Основное ядро
+pyrogram
+tgcrypto
+
+# Работа с API и сетью
+httpx
+python-dotenv
+
+# Мультимедиа (Скачивание видео и музыки)
+yt-dlp
+
+# Работа с изображениями (модули sticker, quote, generate)
+Pillow
+
+# Переводчик
+deep-translator
+
+# Распознавание речи (STT)
+SpeechRecognition
+pydub
+
+# Поиск в интернете (модули search, search_images)
+duckduckgo-search
+
+# Дополнительно для работы с анимациями (если планируете использовать .tgs в sticker.py)
+# lottie
